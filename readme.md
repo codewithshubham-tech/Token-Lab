@@ -3,8 +3,8 @@
 A simple web app that **tokenizes text into numbers** and also **decodes numbers back into text**.  
 Built with **React + Vite**, this project is part of my learning journey in JavaScript, vector databases, and web development.
 
-<!-- 🔗 **Live Demo:** [Deployed Link](https://your-deployed-url)   -->
-<!-- 💻 **Source Code:** [GitHub Repo](https://github.com/your-username/token-lab) -->
+🔗 **Live Demo:** [Deployed Link](https://token-lab.onrender.com/)
+💻 **Source Code:** [GitHub Repo](https://github.com/codewithshubham-tech/Token-Lab.git)
 
 ---
 
@@ -26,17 +26,33 @@ Built with **React + Vite**, this project is part of my learning journey in Java
 
 ---
 
+## 📬 Connect
+
+👤 **Shubham Nishad**  
+🌐 [LinkedIn](https://www.linkedin.com/in/shubham-nishad-936091328/)  
+🐦 [Twitter](https://x.com/Shubham11268506)
+
+---
+
+## 🧑‍💻 Why I Built This
+
+*This project was created as part of my Cohort assignment with ChaiCode – GenAI with JS.
+*It gave me hands-on experience in:
+  * Understanding the basics of text tokenization (used in vector databases & Gen AI).
+  * Building a tokenizer from scratch.
+  * Organizing code with components, utils, and data files.
+  * Deploying a React + Vite app to production.
+
 ## 🚀 Getting Started
 
 Clone the project and run it locally:
 
 ```bash
 git clone https://github.com/your-username/token-lab.git
-cd token-lab
 npm install
 npm run dev
 
-# 📦 Build for Production
+##📦 Build for Production
 
 npm run build
 
@@ -58,30 +74,18 @@ token-lab/
 ├── package.json
 └── README.md
 
-#🧑‍💻 Why I Built This
-
-*This project was created as part of my Cohort assignment with ChaiCode – GenAI with JS.
-*It gave me hands-on experience in:
-  * Understanding the basics of text tokenization (used in vector databases & Gen AI)
-  * Building a tokenizer from scratch
-  * Organizing code with components, utils, and data files
-  * Deploying a React + Vite app to production
+---
 
 ## 📸 Demo Preview
 
 ![Demo GIF](./assets/demo.gif)
 
-# 🤝 Contributing
+---
+
+## 🤝 Contributing
 
 Pull requests and suggestions are welcome!
 If you have ideas for improving the tokenizer or extending it with new features, feel free to open an issue.
 
-## 📜 License
 
-This project is licensed under the MIT License — free to use and modify.
 
-# 📬 Connect
-
-👤 Shubham Nishad
-🌐 [LinkedIn](https://www.linkedin.com/in/shubham-nishad-936091328/)
-🐦 [Twitter](https://x.com/Shubham11268506)
